@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ALTAS_PW": ".m12345678",
+        "JWT_KEY": "secret"
+    }
+}
